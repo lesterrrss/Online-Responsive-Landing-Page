@@ -101,10 +101,14 @@ section{
     margin-bottom: 40px;
 }
 
-.home .content h1 span{
-    font-size: 1.2em;
-    font-weight: 600;
+.home .content.active h1 {
+    font-size: 3em;
 }
+
+.home .content.active h1 span {
+    font-size: 1em; 
+}
+
 
 .home .content p{
     margin-bottom: 65px ;
